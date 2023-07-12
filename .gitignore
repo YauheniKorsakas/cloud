@@ -1,0 +1,11 @@
+.vs/
+bin/
+v17/
+obj/
+v17/
+Cloud.Source/obj/
+Cloud.Source/Cloud.Source/obj/project.assets.json
+Cloud.Source/Cloud.Source/obj/project.nuget.cache
+Cloud.Source/Cloud.Source/obj/Debug/net6.0/Cloud.Source.csproj.AssemblyReference.cache
+Cloud.Source/Cloud.Source/obj/Cloud.Source.csproj.nuget.dgspec.json
+Cloud.Source/.vs/Cloud.Source/v17/.suo
